@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @JessCoelhoo
 - 👀 I’m interested in product design and development 
 - 🌱 I’m currently learning agile and scrum methodology
-- 📫 How to reach me ...
+
+- 
 - 😄 Pronouns: She/Her 
 
 <!---
